@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Penjualan POS</title>
-</head>
+</head> 
 <body>
-    <h1>Ini Halaman Penjualam</h1>
+    <h1>Ini Halaman Penjualan</h1>
 </body>
 </html>
